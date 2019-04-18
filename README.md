@@ -1,1 +1,1 @@
-# Distributed tracing with spring boot anfd zipkin
+# Distributed tracing with spring boot and zipkin
